@@ -14,14 +14,14 @@ UML State Machine: 'UML.pdf'
 SQL-запрос: 'SQL-запрос.pdf'
 Дашборд: 'Pythonanalysis_.pdf' и 'dashbord.py'
 
-#Инструменты
+##Инструменты
 BPMN: Microsoft Visio
 ER: Microsoft Visio
 UML: PlantUML
 SQL: Oracle
 Визуализация: Python + Plotly
 
-#Автор
+##Автор
 Нерсисян Ани
-#email
+##email
 ananersisan545@gmail.com

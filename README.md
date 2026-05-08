@@ -21,7 +21,5 @@ UML: PlantUML
 SQL: Oracle
 Визуализация: Python + Plotly
 
-##Автор
-Нерсисян Ани
-##email
-ananersisan545@gmail.com
+Автор: Нерсисян Ани
+email: ananersisan545@gmail.com
